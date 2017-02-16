@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="142" rx="142" id="svg_4" cy="251" cx="246" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#ffffaa"/>
+  <text stroke="#000000" transform="matrix(7.090951919555663,0,0,5.807692527770996,-798.9147014617919,-866.3846549987793) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_2" y="201.516556" x="147.576926" stroke-width="0" fill="#0000ff">VL</text>
+  <text stroke="#000000" transform="rotate(-90 284.3458251953125,255.20338439941403) matrix(0.7603847340498648,0,0,0.7552793606810724,84.61414347420134,56.39968720914107) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_6" y="271.036027" x="262.692782" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff">Curriculum</text>
+ </g>
+</svg>
